@@ -5,4 +5,4 @@
 5. -
 6. Have no working experience
 7. Jonas Schmedtmann courses, HTML Academy interactive courses
-
+8. English - Upper Intermediate 
