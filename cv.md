@@ -4,3 +4,5 @@
 4. HTML, CSS, SASS, JavaScript
 5. -
 6. Have no working experience
+7. Jonas Schmedtmann courses, HTML Academy interactive courses
+
